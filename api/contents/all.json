@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-09-27T19:25:01.383285Z",
+      "format": null,
+      "last_modified": "2019-09-12T12:32:42.131201Z",
+      "mimetype": "text/plain",
+      "name": "br-phono.txt",
+      "path": "br-phono.txt",
+      "size": 129208,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-09-27T19:25:01.399284Z",
+      "format": null,
+      "last_modified": "2019-09-12T12:22:45.260230Z",
+      "mimetype": "text/plain",
+      "name": "br-text.txt",
+      "path": "br-text.txt",
+      "size": 161788,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-09-27T19:25:01.263765Z",
+      "format": null,
+      "last_modified": "2021-10-01T14:53:04.286789Z",
+      "mimetype": "text/x-python",
+      "name": "LiB.py",
+      "path": "LiB.py",
+      "size": 25539,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-09-27T19:25:01.268765Z",
+      "format": null,
+      "last_modified": "2021-10-01T14:57:38.752514Z",
+      "mimetype": null,
+      "name": "Quick_Demo.ipynb",
+      "path": "Quick_Demo.ipynb",
+      "size": 1914,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-09-27T19:25:01.265765Z",
+      "format": null,
+      "last_modified": "2021-04-02T01:17:24.002702Z",
+      "mimetype": "text/x-python",
+      "name": "structures.py",
+      "path": "structures.py",
+      "size": 11769,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2021-09-27T19:22:39.877322Z",
+  "format": "json",
+  "last_modified": "2021-09-27T19:25:41.272844Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
